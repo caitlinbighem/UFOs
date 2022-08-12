@@ -24,12 +24,13 @@ function buildTable(data) {
       );
     });
   }
-  
+
 // Add a date function
 // d3.select("#datetime") tells D3 to look for the #datetime id in the HTML tags
 // By chaining .property("value"); to the d3.select function, D3 not only looks for where date values are stored on the webpage, 
 // but also grabs that information and holds it in the "date" variable.
 function handleClick() {
+    // Grab the datetime value from the filter
     let date = d3.select("#datetime").property("value");
 
 
