@@ -1,7 +1,8 @@
 body {
-    background-color: aliceblue;
+    color: white;
 }
 
-.button-one{
-    background-color: blueviolet;
+.jumbotron {
+    color: black;
+    text-align: center;
 }
