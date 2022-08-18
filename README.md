@@ -6,9 +6,9 @@ The purpose of this analysis is to build a webpage that contains an inclusive in
 ## Results
 After reviewing the original webpage which only contained a date filter that required users to click the ‘Filter’ button for the requested data to display, we introduced new and improved attributes to the updated version. With these new qualities users will have the option to filter by additional data just by adding their specific search criteria into the provided search fields. Once the search criteria is provided the filters will automatically generate a table to display the resulting data. The below images display the webpage with the standard view of data without any filters applied and the resulting table after search criteria is provided and the filters are applied. 
 
-![unfiltered_table]()
+![unfiltered_table](https://github.com/caitlinbighem/UFOs/blob/main/Resources/unfiltered_table.PNG)
 
-![filtered_table]()
+![filtered_table](https://github.com/caitlinbighem/UFOs/blob/main/Resources/filtered_table.PNG)
 
 ## Summary of Analysis
 A disadvantage of this webpage is that it cannot currently automatically adapt and adjust to the size of the device it is being viewed on. An image for example, has the ability to resize if the current user decides to zoom in on the webpage, however this can only be done manually at the moment. Therefore, a recommendation for future updates and improvements would be to create additional formatting that allows the webpage to adapt to the view best for each individual device.
